@@ -1,4 +1,4 @@
-Hello & Welcome to my page. I am a postdoctoral research fellow at the African Institute of Financial Markets and Risk Management (AIFMRM), University of Cape Town.   I have been based at AIFMRM since September 2016.
+Hello & welcome to my page. I am a postdoctoral research fellow at the African Institute of Financial Markets and Risk Management (AIFMRM), University of Cape Town.   I have been based at AIFMRM since September 2016.
 
 ![Daniel C. Opolot]({{ site.url }}/img/opolot1.jpg){:height="50%" width="50%" algin="center"}
 
