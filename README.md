@@ -1,6 +1,6 @@
 Hello & welcome to my page. I am a postdoctoral research fellow at the African Institute of Financial Markets and Risk Management (AIFMRM), University of Cape Town.   I have been based at AIFMRM since September 2016.
 
-![Daniel C. Opolot]({{ site.url }}/img/opolot1.jpg){:height="50%" width="50%" algin="center"}
+![Daniel C. Opolot]({{ site.url }}/img/photo_presentation1.jpg){:height="50%" width="50%" algin="center"}
 
 I completed my PhD in Economics in June 2015 at UNU-MERIT, School of Business and Economics, Maastricht University.  Before that, I studied a B.SC in Mathematics and Physical Science, and a Master’s degree in Astronomy/Cosmology.
 
