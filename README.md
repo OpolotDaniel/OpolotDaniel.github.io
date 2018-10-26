@@ -55,7 +55,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2877586
 
 ## Ongoing projects
 
-## Local interactions, iterated p-dominance and stochastic stability (working paper coming soon)
+## Local interactions and long-run stability in evolutionary models (working paper coming soon)
 This paper studies evolutionary game dynamics with local interactions. We consider a ring interaction structure where each agent interacts with a subset of k other agents, k/2 to the left and right. We show that in such a structure, iterated 1/k-best response sets are stochastically stable. A subset of strategies forms a 1/k-best response set if strategies in the set are best responses to any distribution that assigns them a total weight of at least 1/k. Iterated application of this idea leads to the concept of iterated 1/k-best response sets. We also demonstrate the effect of connectivity (density of the interaction structure) and find that iterated p-best response sets, for 1/k<p<1/2, are stochastically stable provided the k is sufficiently smaller than the population size. Above a threshold level of connectivity however, iterated p-best response sets need not be stochastically stable.
 
 ## Information percolation in exit games (working paper coming soon)
