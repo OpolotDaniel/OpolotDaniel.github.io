@@ -8,7 +8,7 @@ My primary research interests are in Game Theory (evolutionary game theory and m
 
 My PhD dissertation was titled ‘The evolution of beliefs and strategic behaviour’.  While my PhD was mainly theoretical, I am currently combining my theoretical work with empirical studies of research collaboration networks. 
 
-I am in the job market for the academic year of 2018-2019.   I will be attending the European Economic Association meeting for interviews in Naples, Italy in December 2018.
+I am in the job market for the academic year of 2018-2019.  
 
 [CV]({{ site.url }}/CV_OPOLOT.D.pdf)
 
@@ -42,7 +42,7 @@ Centralized network structures, which consist of at least one actor – a centra
 
 ### Prejudice, group cohesion and the dynamics of disagreement
 
-This paper studies how individual prejudice towards others’ attributes and behaviour or government policies and programs generates everlasting public disagreement. We study an endogenous model of opinion formation where agents compromise between respecting their own personal prejudice and conforming their opinions to those held by others with whom they share close ties. We characterize equilibrium opinions, showing that their distribution and average depends on Bonacich centralities. An agent’s Bonacich centrality measures the extent to which her prejudice is incorporated into others’ equilibrium opinions. We find that the magnitude of disagreement positively depends on three reinforcing factors: the extent and intensity of prejudice, and intensities of subgroup cohesion. We also examine the rate of decay of disagreement and demonstrate how it can be used to empirically estimate the intensity of prejudice of a social group.
+This paper studies how individual prejudice – a set of preconceived and inflexible opinions – and group cohesion generate everlasting public disagreement in models of learning by averaging. We consider an endogenous model of opinion formation where agents compromise between respecting their own personal prejudice and conforming their opinions to those held by others with whom they share close ties. We quantify the extent of equilibrium disagreement and show that its magnitude increases with the intensities of prejudice and group cohesion. We propose a new measure of the intensity of group cohesion that depends on the frequency of interactions between cohesive subgroups. We also examine the speed of learning in the proposed model and show that it decreases logarithmically with the intensity of prejudice but increases with the intensity of group cohesion.
 
 [Paper]({{ site.url }}/papers/Prejudice_GroupCohesion_Learning_New.pdf)
 
