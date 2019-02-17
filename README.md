@@ -16,7 +16,7 @@ I am in the job market for the academic year of 2018-2019.
 
 ## Working papers
 
-### Strategic diffusion in networks through contagion (with Théophile T. Azomahoua)
+### Strategic diffusion in networks through contagion (with Théophile T. Azomahou)
 
 Social networks provide a platform through which firms and governments can strategically diffuse products and desirable practices. This paper studies the process of strategic diffusion (i.e. diffusion by targeting specific individuals) in the presence of network externalities using an evolutionary game theory framework. We show that targeting is inefficient if the rate at which agents experiment on different choices is high, but below a certain threshold, targeting is economically reasonable. A firm/planner can reduce the cost of targeting by exploiting the process of contagion. A contagious choice requires a small set of initial adopters to trigger diffusion to the wider network. We show that the cost of making a product/practice contagious is lower for sparsely and uniformly connected networks than highly connected and/or less cohesive networks. We also show that the expected waiting time until a contagious choice is adopted by the entire network is independent of the population size. This implies that in large networks, even if the level of experimentation is very low, the diffusion process does not get trapped indefinitely  in a suboptimal equilibrium. 
 
@@ -28,7 +28,7 @@ Evolutionary models with persistent randomness employ stochastic stability as a 
 
 [Paper]({{ site.url }}/papers/PDominance_StochasticStability.pdf) // [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234959)
 
-### Costly word-of-mouth learning in networks (with Théophile T. Azomahoua)
+### Costly word-of-mouth learning in networks (with Théophile T. Azomahou)
 
 This paper develops a framework for word-of-mouth learning in networks where agents strategically decide when to take an irreversible action. Agents face a trade-off between taking an irreversible action early enough to avoid the cost of waiting and waiting to receive more information to increase confidence in their choice. We characterize equilibrium exit times and establish conditions for correct learning in large societies. The necessary conditions for correct learning are: (i) no single or small group of agents should have unbounded influence as measured by conditional in-degree; (ii) The underlying network must have a bounded diameter. Finally, we show that the presence of noise in signals prolongs exit times, and hence increases the likelihood of asymptotic learning.
 
