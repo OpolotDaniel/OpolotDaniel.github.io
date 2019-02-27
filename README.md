@@ -56,7 +56,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2877586
 ## New: Just completed
 
 ## Discussants (with Co-Pierre Georg and Michael E. Rose)
-This study is the first to examine the role of discussants in academic knowledge produc-tion. Comparing articles of similar quality with and without discussants, we find that havinga discussant increases a paper’s probability of publication in prestigious journals, but notits citation count. Conditional on having a discussant, citation count and probability ofpublication in a prestigious journal increase in the discussants’ prolificness. This supportsthe existence of aqualitychannel through which discussants improve the inherent qual-ity of a paper. Conversely, we do not find evidence for the existence of adiffusionchannelwhereby papers garner more citations because discussants diffuse information about thepaper within their social network.
+This study is the first to examine the role of discussants in academic knowledge production. Comparing articles of similar quality with and without discussants, we find that havinga discussant increases a paper’s probability of publication in prestigious journals, but not its citation count. Conditional on having a discussant, citation count and probability ofpublication in a prestigious journal increase in the discussants’ prolificness. This supportsthe existence of aquality channel through which discussants improve the inherent quality of a paper. Conversely, we do not find evidence for the existence of adiffusion channel whereby papers garner more citations because discussants diffuse information about thepaper within their social network.
 
 ## Ongoing projects
 
