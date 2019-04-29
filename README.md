@@ -42,7 +42,7 @@ Centralized network structures, which consist of at least one actor – a centra
 
 ### Prejudice, group cohesion and the dynamics of disagreement
 
-This paper studies how individual prejudice – a set of preconceived and inflexible opinions – and group cohesion generate everlasting public disagreement in models of learning by averaging. We consider an endogenous model of opinion formation where agents compromise between respecting their own personal prejudice and conforming their opinions to those held by others with whom they share close ties. We quantify the extent of equilibrium disagreement and show that its magnitude increases with the intensities of prejudice and group cohesion. We propose a new measure of the intensity of group cohesion that depends on the frequency of interactions between cohesive subgroups. We also examine the speed of learning in the proposed model and show that it decreases logarithmically with the intensity of prejudice but increases with the intensity of group cohesion.
+This paper studies how individual prejudice – a set of preconceived and inflexible opinions – and group cohesion generate everlasting public disagreement in models of learning by averaging. We consider an endogenous model of opinion formation where agents compromise between respecting their own personal prejudice and conforming to the opinions held by others with whom they share close ties. We quantify the extent of equilibrium disagreement and show that its magnitude increases with the intensities of prejudice and group cohesion. Similarly, the speed of learning is a logarithmic function of the intensities of prejudice and group cohesion.
 
 [Paper]({{ site.url }}/papers/Prejudice_GroupCohesion_Learning.pdf)
 
