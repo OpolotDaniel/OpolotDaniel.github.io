@@ -1,4 +1,4 @@
-Hello & welcome to my page. I am a postdoctoral research fellow at the African Institute of Financial Markets and Risk Management (AIFMRM), University of Cape Town.   I have been based at AIFMRM since September 2016.
+Hello & welcome to my page. I am a Senior Researcher at the Development Policy Research Unit (DPRU), University of Cape Town. Before joining DPRU, I was a postdoctoral research fellow at the African Institute of Financial Markets and Risk Management, University of Cape Town for three years.
 
 ![Daniel C. Opolot]({{ site.url }}/img/opolot1.jpg){:height="50%" width="50%" algin="center"}
 
@@ -6,9 +6,7 @@ I completed my PhD in Economics in June 2015 at UNU-MERIT, School of Business an
 
 My primary research interests are in Game Theory (evolutionary game theory and models of social learning), Social Network Analysis and Economics of Science.     
 
-My PhD dissertation was titled ‘The evolution of beliefs and strategic behaviour’.  While my PhD was mainly theoretical, I am currently combining my theoretical work with empirical studies of research collaboration networks. 
-
-I am in the job market for the academic year of 2018-2019.  
+I have expertise and vast research experience in both theoretical modelling and data analysis. At DPRU, I am currently leading the Brookings Institute research project on "Addressing South Africa’s youth unemployment through industries without smokestacks". The main idea of this project is to establish the employment potential of emerging sectors in South Africa and to examine the extent to which they can help reduce persistent youth unemployment. 
 
 [CV]({{ site.url }}/CV_OPOLOT.D.pdf)
 
