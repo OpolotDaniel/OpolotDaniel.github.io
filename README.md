@@ -4,7 +4,7 @@ Hello & welcome to my page. I am a Senior Researcher at the Development Policy R
 
 I completed my PhD in Economics in June 2015 at UNU-MERIT, School of Business and Economics, Maastricht University.  Before that, I studied a B.SC in Mathematics and Physical Science, and a Master’s degree in Astronomy/Cosmology.
 
-My primary research interests are in Game Theory (evolutionary game theory and models of social learning), Social Network Analysis and Economics of Science.     
+My primary research interests are in Game Theory (evolutionary game theory and models of social learning), Social Network Analysis, Economics of Science and Labour Economics.     
 
 I have expertise and vast research experience in both theoretical modelling and data analysis. At DPRU, I am currently leading the Brookings Institute research project on "Addressing South Africa’s youth unemployment through industries without smokestacks". The main idea of this project is to establish the employment potential of emerging sectors in South Africa and to examine the extent to which they can help reduce persistent youth unemployment. 
 
