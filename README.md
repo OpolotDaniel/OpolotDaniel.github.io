@@ -18,6 +18,10 @@ I am currently active in the 2019/2020 job market.
 
 # Research
 
+## Job Market Paper -- Local interactions, coordination and evolutionary dynamics (working paper coming out soon)
+Evolutionary models with persistent randomness have become useful tools for equilibrium selection in games with multiple equilibria. This paper examines how the interaction structure influences the long-run behaviour of stochastic evolutionary best-response models for $n\times n$ coordination games. Focusing on the notion of stochastic stability (i.e. long-run stability as the amount of randomness becomes vanishingly small), we identify three properties of the interaction structure that influence stochastically stable outcomes: connectivity, centralization and group cohesion. We show that for all these three properties, there exists a threshold level below which strategies that form the smallest \textit{iterated $p$-best response set} are uniquely stochastically stable. A set of strategies form a \textit{$p$-best response set} if strategies in that set are best-replies to any distribution that places on them a total mass of at least $p$. Iterated application of this concept leads to the smallest iterated $p$-best response set. The smallest iterated $p$-best response set is easily computable and every $n\times n$ coordination game has an iterated $p$-best response set
+
+
 ## Working papers
 
 ### Strategic diffusion in networks through contagion (with Théophile T. Azomahou)
@@ -59,20 +63,17 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2877586
 
 ## New: Just completed
 
-## Discussants (with Co-Pierre Georg and Michael E. Rose)
+### Discussants (with Co-Pierre Georg and Michael E. Rose)
 This study is the first to examine the role of discussants in academic knowledge production. Comparing articles of similar quality with and without discussants, we find that having a discussant increases a paper’s probability of publication in prestigious journals, but not its citation count. Conditional on having a discussant, citation count and probability of publication in a prestigious journal increase in the discussants’ prolificness. This supports the existence of a quality channel through which discussants improve the inherent quality of a paper. Conversely, we do not find evidence for the existence of a diffusion channel whereby papers garner more citations because discussants diffuse information about the paper within their social network.
 
 ## Ongoing projects
 
-## Local interactions and long-run stability in evolutionary models (working paper coming soon)
-This paper studies evolutionary game dynamics with local interactions. We consider a ring interaction structure where each agent interacts with a subset of k other agents, k/2 to the left and right. We show that in such a structure, iterated 1/k-best response sets are stochastically stable. A subset of strategies forms a 1/k-best response set if strategies in the set are best responses to any distribution that assigns them a total weight of at least 1/k. Iterated application of this idea leads to the concept of iterated 1/k-best response sets. We also demonstrate the effect of connectivity (density of the interaction structure) and find that iterated p-best response sets, for 1/k<p<1/2, are stochastically stable provided the k is sufficiently smaller than the population size. Above a threshold level of connectivity however, iterated p-best response sets need not be stochastically stable.
-
-## Information percolation in exit games (working paper coming soon)
+### Information percolation in exit games (working paper coming soon)
 Timing is an important component of many economic and investment decisions. When faced with uncertainty regarding the rewards from available options, agents may seek information from their peers to inform their decisions. This paper develops a framework of information exchange through social learning. Although waiting to receive information from peers improves the accuracy of decision, there may be material losses associated with waiting. Agents strategies thus involve choosing an optimal time to stop waiting for information and take an action (e.g. make an investment).  We examine how the architecture of the underlying interaction structure influences stopping times. We find that neighbourhood centrality, a network measure of the number of an agent's neighbours within a given radius, determines stopping times. Specifically, centrally placed agents (with higher neighbourhood centrality) have shorter stopping times, while peripheral (in the network) agents have longer stopping times. This framework helps explain empirical observation regarding correlations in investment decisions within and not across regions.
 
-## The Rate of Scientific Progress and the Structure of the Scientific Community (with Michael E. Rose)
+### The Rate of Scientific Progress and the Structure of the Scientific Community (with Michael E. Rose)
 
-## The persistence of corruption (with Davina Osei)
+### The persistence of corruption (with Davina Osei)
 
 ---
 
