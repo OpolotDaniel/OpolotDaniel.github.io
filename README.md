@@ -14,7 +14,7 @@ I am currently active in the 2019/2020 job market.
 
 [Teaching Statement]({{ site.url }}/Teaching Statement_OPOLOT.pdf)
 
-[Research Statement]({{ site.url }}/Teaching Statement_DANIEL.pdf)
+[Research Statement]({{ site.url }}/Research Statement_DANIEL.pdf)
 
 # Research
 
