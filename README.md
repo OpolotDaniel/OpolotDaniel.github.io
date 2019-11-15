@@ -1,12 +1,14 @@
-Hello & welcome to my page. I am a Senior Researcher at the Development Policy Research Unit (DPRU), University of Cape Town. Before joining DPRU, I was a postdoctoral research fellow at the African Institute of Financial Markets and Risk Management, University of Cape Town for three years.
+Hello & welcome to my page. I am a Senior Researcher at SALDRU, University of Cape Town. Before joining DPRU, I was a postdoctoral research fellow at the African Institute of Financial Markets and Risk Management, University of Cape Town for three years.
 
 ![Daniel C. Opolot]({{ site.url }}/img/opolot1.jpg){:height="50%" width="50%" algin="center"}
 
-I completed my PhD in Economics in June 2015 at UNU-MERIT, School of Business and Economics, Maastricht University.  Before that, I studied a B.SC in Mathematics and Physical Science, and a Master’s degree in Astronomy/Cosmology.
+I completed my PhD in Economics in June 2015 from Maastricht University School of Business and Economics.  Before that, I studied a B.SC in Mathematics and Physics, and a Master’s degree in Physics (Astronomy).
 
 My primary research interests are in Game Theory (evolutionary game theory and models of social learning), Social Network Analysis, Economics of Science and Labour Economics.     
 
-I have expertise and vast research experience in both theoretical modelling and data analysis. At DPRU, I am currently leading the Brookings Institute research project on "Addressing South Africa’s youth unemployment through industries without smokestacks". The main idea of this project is to establish the employment potential of emerging sectors in South Africa and to examine the extent to which they can help reduce persistent youth unemployment. 
+I have expertise and research experience in both theoretical modelling and data analysis. At SALDRU, I am currently leading the Brookings Institute research project on "Addressing South Africa’s youth unemployment through industries without smokestacks". The main idea of this project is to establish the employment potential of emerging sectors in South Africa and to examine the extent to which they can help reduce persistent youth unemployment. 
+
+I am currently active in the 2019/2020 job market.
 
 [CV]({{ site.url }}/CV_OPOLOT.D.pdf)
 
