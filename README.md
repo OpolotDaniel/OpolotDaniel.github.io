@@ -12,6 +12,10 @@ I am currently active in the 2019/2020 job market.
 
 [CV]({{ site.url }}/CV_OPOLOT.D.pdf)
 
+[Teaching Statement]({{ site.url }}/Teaching Statement_OPOLOT.pdf)
+
+[Research Statement]({{ site.url }}/Teaching Statement_DANIEL.pdf)
+
 # Research
 
 ## Working papers
