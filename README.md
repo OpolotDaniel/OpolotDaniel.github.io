@@ -74,9 +74,8 @@ Timing is an important component of many economic and investment decisions. When
 
 # Contact
 
-Email: daniel.opolot@uct.ac.za
+Email: opodanchris@gmail.com
 Tel: +27-790949893
-AIFMRM 
+SALDRU
 University of Cape Town 
-6.22, Leslie Commerce Building, Upper Campus 
 Rondebosch, Cape Town 7701, South Africa
