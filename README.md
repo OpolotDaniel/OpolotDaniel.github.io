@@ -30,9 +30,9 @@ Social networks provide a platform through which firms and governments can strat
 
 [Paper]({{ site.url }}/papers/Strategic_Diffusion_Network.pdf)
 
-### On the relationship between p-dominance and stochastic stability in networks
+### On the relationship between p-dominance and stochastic stability in network games
 
-Evolutionary models with persistent randomness employ stochastic stability as a solution concept to identify more reasonable outcomes in games with multiple equilibria. The complexity of computational methods used to identify stochastically stable outcomes and their lack of robustness to the interaction structure limit the applicability of evolutionary selection theories. This paper identifies p-dominance and contagion threshold as the properties of strategies and interaction structure respectively that robustly determine stochastically stable outcomes. Specifically, we show that p-dominant strategies, which are best responses to any distribution that assigns them a weight of at least p, are stochastically stable in networks with contagion threshold of at least p.
+This paper studies the long-run (stochastic) stability of an evolutionary model with persistent randomness in network games. We focus on evolutionary dynamics in symmetric coordination games where players choose the best responses to their opponents' strategies. Recent studies find that the network structure determines uniqueness of stochastically stable outcomes in such models. We identify the contagion threshold (i.e. a number below which some strategies can spread contagiously across a network) as one of the aggregate network measures that determines the uniqueness of stochastically stable outcomes. Specifically, we show that strategies that form a p-best response set (i.e. strategies that are best responses to any distribution that places on them a mass of at least p) are uniquely stochastically stable in networks with a contagion threshold equal to p. This result holds for all strongly connected networks with diameter greater or equal to 5.
 
 [Paper]({{ site.url }}/papers/PDominance_StochasticStability.pdf) // [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234959)
 
