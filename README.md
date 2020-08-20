@@ -18,9 +18,10 @@ I am currently active in the 2019/2020 job market.
 
 # Research
 
-## Job Market Paper -- Local interactions, coordination and evolutionary dynamics
-Evolutionary models with persistent randomness have become useful tools for equilibrium selection in games with multiple equilibria. This paper examines how the interaction structure influences the long-run behaviour of stochastic evolutionary best-response models for n-by-n coordination games. Focusing on the notion of stochastic stability (i.e. long-run stability as the amount of randomness becomes vanishingly small), we identify three properties of the interaction structure that influence stochastically stable outcomes: connectivity, centralization and group cohesion. We show that for all these three properties, there exists a threshold level below which strategies that form the smallest iterated p-best response set are uniquely stochastically stable. A set of strategies form a p-best response set if strategies in that set are best-replies to any distribution that places on them a total mass of at least p. Iterated application of this concept leads to the smallest iterated p-best response set. The smallest iterated p-best response set is easily computable and every coordination game has an iterated p-best response set
+## Job Market Paper -- Contagion, network cohesion and long run stability in evolutionary games
+This paper studies how the network structure affects the long-run equilibria emerging in coordination games when agents are myopic best responders. Our analysis builds-on the properties of the process of contagion. We demonstrate that when contagion is feasible, the network diameter, a measure of the cohesiveness of the whole network, determines the uniqueness of long-run equilibria. The maximum group cohesion is one of the network measures that determines the feasibility of contagion. We show that for cyclic networks where each player has the same number of neighbours, there exists a threshold network diameter above which strategies in the smallest iterated p-best response set, for p equal to the maximum group cohesion, are uniquely stochastically stable. We discuss how these results can be extended to evolutionary dynamics in arbitrary networks using different network measures that determine the feasibility of contagion.
 
+[Paper]({{ site.url }}/papers/Contagion_Cohesion_Evolution.pdf)
 
 ## Working papers
 
