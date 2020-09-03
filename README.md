@@ -1,14 +1,10 @@
-Hello & welcome to my page. I am a Senior Researcher at SALDRU, University of Cape Town. Before joining DPRU, I was a postdoctoral research fellow at the African Institute of Financial Markets and Risk Management, University of Cape Town for three years.
+Hello & welcome to my page. I am a Senior Research Economist specializing in microeconomic analysis, innovation and economic development, and social network analysis. 
 
 ![Daniel C. Opolot]({{ site.url }}/img/opolot1.jpg){:height="50%" width="50%" algin="center"}
 
-I completed my PhD in Economics in June 2015 from Maastricht University School of Business and Economics.  Before that, I studied a B.SC in Mathematics and Physics, and a Master’s degree in Physics (Astronomy).
+I hold a doctoral degree in microeconomics from Maastricht University, and was a post-doctoral research fellow at the African Institute of Financial Markets and Risk Management (AIFMRM) at the University of Cape Town (UCT) for 3 years. Since completing my post-doctoral fellowship in 2019, I have lectured at the School of Economics, UCT, teaching the Mathematics for Economists course, and worked as a Senior Research Analyst at The Southern Africa Labour and Development Research Unit, UCT. Prior to joining AIFMRM, I was a lecturer at Maastricht University School of Business and Economics for 2 years, teaching micro- and macro-economics, and international economics.
 
-My primary research interests are in Game Theory (evolutionary game theory and models of social learning), Social Network Analysis, Economics of Science and Labour Economics.     
-
-I have expertise and research experience in both theoretical modelling and data analysis. At SALDRU, I am currently leading the Brookings Institute research project on "Addressing South Africa’s youth unemployment through industries without smokestacks". The main idea of this project is to establish the employment potential of emerging sectors in South Africa and to examine the extent to which they can help reduce persistent youth unemployment. 
-
-I am currently active in the 2019/2020 job market.
+I am currently active in the 2020/2021 job market.
 
 [CV]({{ site.url }}/CV_OPOLOT.D.pdf)
 
@@ -19,7 +15,7 @@ I am currently active in the 2019/2020 job market.
 # Research
 
 ## Job Market Paper -- Contagion, network cohesion and long run stability in evolutionary games
-This paper studies how the network structure affects the long-run equilibria emerging in coordination games when agents are myopic best responders. Our analysis builds-on the properties of the process of contagion. We demonstrate that when contagion is feasible, the network diameter, a measure of the cohesiveness of the whole network, determines the uniqueness of long-run equilibria. The maximum group cohesion is one of the network measures that determines the feasibility of contagion. We show that for cyclic networks where each player has the same number of neighbours, there exists a threshold network diameter above which strategies in the smallest iterated p-best response set, for p equal to the maximum group cohesion, are uniquely stochastically stable. We discuss how these results can be extended to evolutionary dynamics in arbitrary networks using different network measures that determine the feasibility of contagion.
+This paper studies how the network structure affects the long-run equilibria emerging in coordination games when agents are myopic best responders. Our analysis builds-on the properties of the process of contagion. We demonstrate that when contagion is feasible, the network diameter, a measure of the cohesiveness of the network, determines the uniqueness of long-run equilibria. The maximum group cohesion is one of the network measures that determines the feasibility of contagion. We show that for regular cyclic networks, there exists a threshold network diameter above which strategies in the smallest iterated p-best response set, for p equal to the maximum group cohesion, are uniquely stochastically stable. We discuss how these results can be extended to evolutionary dynamics on arbitrary networks using different network measures that determine the feasibility of contagion.
 
 [Paper]({{ site.url }}/papers/Contagion_Cohesion_Evolution.pdf)
 
