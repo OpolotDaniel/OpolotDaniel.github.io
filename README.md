@@ -32,7 +32,7 @@ over time through best response. Focusing on coordination games, we establish co
 
 This paper studies the long-run (stochastic) stability of an evolutionary model with persistent randomness in network games. We focus on evolutionary dynamics in symmetric coordination games where players choose the best responses to their opponents' strategies. Recent studies find that the network structure determines uniqueness of stochastically stable outcomes in such models. We identify the contagion threshold (i.e. a number below which some strategies can spread contagiously across a network) as one of the aggregate network measures that determines the uniqueness of stochastically stable outcomes. Specifically, we show that strategies that form a p-best response set (i.e. strategies that are best responses to any distribution that places on them a mass of at least p) are uniquely stochastically stable in networks with a contagion threshold equal to p. This result holds for all strongly connected networks with diameter greater or equal to 5.
 
-[Paper]({{ site.url }}/papers/PDominance_StochasticStability.pdf) // [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234959)
+[Paper]({{ site.url }}/papers/PDominance_StochasticStability.pdf) // [SSRN](https://ssrn.com/abstract=3234959)
 
 ### Costly word-of-mouth learning in networks (with Théophile T. Azomahou)
 
