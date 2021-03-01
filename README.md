@@ -4,8 +4,6 @@ Hello & welcome to my page. I am a Senior Research Economist specializing in mic
 
 I hold a doctoral degree in microeconomics from Maastricht University, and was a post-doctoral research fellow at the African Institute of Financial Markets and Risk Management (AIFMRM) at the University of Cape Town (UCT) for 3 years. Since completing my post-doctoral fellowship in 2019, I have lectured at the School of Economics, UCT, teaching the Mathematics for Economists course, and worked as a Senior Research Analyst at The Southern Africa Labour and Development Research Unit, UCT. Prior to joining AIFMRM, I was a lecturer at Maastricht University School of Business and Economics for 2 years, teaching micro- and macro-economics, and international economics.
 
-I am currently active in the 2020/2021 job market.
-
 [CV]({{ site.url }}/CV_OPOLOT.D.pdf)
 
 [Teaching Statement]({{ site.url }}/Teaching Statement_OPOLOT.pdf)
@@ -29,7 +27,7 @@ This paper studies the diffusion of products and behaviour with coordination eff
 
 ### On the relationship between p-dominance and stochastic stability in network games
 
-This paper studies the long-run (stochastic) stability of an evolutionary model with persistent randomness in network games. We focus on evolutionary dynamics in symmetric coordination games where players choose the best responses to their opponents' strategies. Recent studies find that the network structure determines uniqueness of stochastically stable outcomes in such models. We identify the contagion threshold (i.e. a number below which some strategies can spread contagiously across a network) as one of the aggregate network measures that determines the uniqueness of stochastically stable outcomes. Specifically, we show that strategies that form a p-best response set (i.e. strategies that are best responses to any distribution that places on them a mass of at least p) are uniquely stochastically stable in networks with a contagion threshold equal to p. This result holds for all strongly connected networks with diameter greater or equal to 5.
+This paper examines the properties of networks that determine the uniqueness of long-run equilibria emerging from symmetric coordination games when players are myopic best responders. We identify the contagion threshold and the network diameter as two measures of finite networks that determine when strategies in the minimal p-best response set of a coordination game are uniquely stochastically stable. We show that when the contagion threshold is greater or equal to p, strategies in the minimal p-best response set are uniquely stochastically stable in strongly connected networks with diameter greater or equal to seven. The contagion threshold and the network diameter are easy to compute and their values are unique for every strongly connected network.
 
 [Paper]({{ site.url }}/papers/PDominance_StochasticStability.pdf) <!--// [SSRN](https://ssrn.com/abstract=3234959)-->
 
