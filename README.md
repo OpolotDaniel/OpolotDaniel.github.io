@@ -56,8 +56,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2877586
 
 [Paper]({{ site.url }}/papers/InformalIntellectualCollaboration.pdf)
 
-## New: Just completed
-
 ### Discussants (with Co-Pierre Georg and Michael E. Rose)
 This study is the first to examine the role of discussants in academic knowledge production. Comparing articles of similar quality with and without discussants, we find that having a discussant increases a paper’s probability of publication in prestigious journals, but not its citation count. Conditional on having a discussant, citation count and probability of publication in a prestigious journal increase in the discussants’ prolificness. This supports the existence of a quality channel through which discussants improve the inherent quality of a paper. Conversely, we do not find evidence for the existence of a diffusion channel whereby papers garner more citations because discussants diffuse information about the paper within their social network.
 
@@ -67,8 +65,6 @@ This study is the first to examine the role of discussants in academic knowledge
 Timing is an important component of many economic and investment decisions. When faced with uncertainty regarding the rewards from available options, agents may seek information from their peers to inform their decisions. This paper develops a framework of information exchange through social learning. Although waiting to receive information from peers improves the accuracy of decision, there may be material losses associated with waiting. Agents strategies thus involve choosing an optimal time to stop waiting for information and take an action (e.g. make an investment).  We examine how the architecture of the underlying interaction structure influences stopping times. We find that neighbourhood centrality, a network measure of the number of an agent's neighbours within a given radius, determines stopping times. Specifically, centrally placed agents (with higher neighbourhood centrality) have shorter stopping times, while peripheral (in the network) agents have longer stopping times. This framework helps explain empirical observation regarding correlations in investment decisions within and not across regions.
 
 ### The Rate of Scientific Progress and the Structure of the Scientific Community (with Michael E. Rose)
-
-### The persistence of corruption (with Davina Osei)
 
 ---
 
